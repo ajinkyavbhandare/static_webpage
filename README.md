@@ -1,3 +1,3 @@
 
- you can visit here [here](https://adityasimant.github.io/Portfolio)
+ you can visit here [here](https://ajinkyavbhandare.github.io/static_webpage/
   
