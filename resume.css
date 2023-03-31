@@ -1,0 +1,242 @@
+.resume-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 1024px;
+}
+.resume-inner,
+.resume-item {
+  position: absolute;
+  top: 91px;
+  left: 0;
+  width: 1437px;
+  height: 2.01px;
+}
+.resume-inner {
+  top: 76px;
+  left: 152px;
+  width: 193px;
+  height: 191px;
+  object-fit: cover;
+}
+.e3 {
+  letter-spacing: 0.1em;
+}
+.ajinkya-bhandare6 {
+  top: 291px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-snow);
+  display: inline-block;
+  width: 178px;
+  height: 27px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ajinkya-bhandare6,
+.remote3,
+.resume-child1 {
+  position: absolute;
+  left: 152px;
+}
+.remote3 {
+  top: 326px;
+  letter-spacing: 0.1em;
+  font-weight: 300;
+  color: var(--color-gainsboro-200);
+  display: inline-block;
+  width: 127px;
+  height: 17px;
+}
+.resume-child1 {
+  top: 351px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkslategray);
+  width: 193px;
+  height: 24px;
+}
+.follow3 {
+  position: absolute;
+  top: 356px;
+  left: 221px;
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  color: var(--color-whitesmoke-200);
+  display: inline-block;
+  width: 55px;
+  height: 14px;
+}
+.twitter-negative3 {
+  position: absolute;
+  top: 391px;
+  left: 152px;
+  width: 8px;
+  height: 8px;
+  overflow: hidden;
+}
+.ajinkya-20027 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.1em;
+  font-weight: 300;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+}
+.ajinkya-20026 {
+  position: absolute;
+  top: 389px;
+  left: 166px;
+  width: 128px;
+  height: 12px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-whitesmoke-100);
+}
+.github-negative3 {
+  position: absolute;
+  top: 411px;
+  left: 152px;
+  width: 8px;
+  height: 8px;
+  overflow: hidden;
+}
+.ajinkyavbhandare3 {
+  position: absolute;
+  top: 407px;
+  left: 166px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.1em;
+  font-weight: 300;
+  color: var(--color-whitesmoke-300);
+  display: inline-block;
+  width: 126px;
+  height: 10px;
+  text-decoration: none;
+}
+.linkedin-negative3 {
+  position: absolute;
+  top: 431px;
+  left: 152px;
+  width: 8px;
+  height: 8px;
+  overflow: hidden;
+}
+.ajinkya-bhandare7 {
+  position: absolute;
+  top: 427px;
+  left: 166px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.1em;
+  font-weight: 300;
+  color: var(--color-gainsboro-100);
+  display: inline-block;
+  width: 158px;
+  height: 12px;
+  text-decoration: none;
+}
+.resume-child2,
+.resume-child3,
+.resume-child4 {
+  position: absolute;
+  top: 455px;
+  left: 152px;
+  width: 193px;
+  height: 1px;
+  object-fit: cover;
+}
+.resume-child3,
+.resume-child4 {
+  top: 113.99px;
+  left: 370px;
+  width: 6px;
+  height: 886.01px;
+}
+.resume-child4 {
+  top: 579px;
+  left: 152px;
+  width: 193px;
+  height: 1px;
+}
+.achievements3,
+.experience3,
+.home4,
+.resume4 {
+  position: absolute;
+  top: 466px;
+  left: 152px;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  display: inline-block;
+  width: 167px;
+  height: 24px;
+}
+.experience3,
+.home4,
+.resume4 {
+  top: 590px;
+}
+.home4,
+.resume4 {
+  top: 63px;
+  left: 423px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  width: 79px;
+  height: 13px;
+}
+.resume4 {
+  left: 762px;
+}
+.blogs8 {
+  margin: 0;
+}
+.blogs7,
+.projects4 {
+  position: absolute;
+  top: 63px;
+  left: 536px;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.1em;
+  font-weight: 300;
+  display: inline-block;
+  width: 79px;
+  height: 13px;
+}
+.projects4 {
+  left: 649px;
+}
+.resume-child5,
+.resume5 {
+  position: absolute;
+  left: 400px;
+}
+.resume5 {
+  top: 142px;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  display: inline-block;
+  width: 508px;
+  height: 23px;
+}
+.resume-child5 {
+  top: 182px;
+  width: 967px;
+  height: 1px;
+  object-fit: cover;
+}
+.resume3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
